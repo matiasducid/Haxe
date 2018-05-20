@@ -1,0 +1,17 @@
+Para compilar el HelloWorld.hx al helloPy.py hacer lo siguiente:
+haxe -main HelloWorld -python helloPy.py
+Se puede armar un .hxml del siguiente modo:
+-main HelloWorld
+-python helloPy.py
+Y para imbocar este archivo .hxml será:
+haxe <nombre.hxml>
+Para compilar a:
+
+neko -> -neko <nombreArchOutput>
+C++ -> -cpp <nombreArchOutput>
+Javascript -> -js <nombreArchOutput>
+Flash -> -swf <nombreArchOutput>
+PHP -> -php <nombreArchOutput>
+.
+.
+.
