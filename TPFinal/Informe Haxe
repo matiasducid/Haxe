@@ -1,0 +1,23 @@
+El juego de herramientas multiplataforma Haxe:
+
+Haxe es un kit de herramientas de código abierto basado en un lenguaje de programación moderno, de alto nivel y estrictamente 
+tipado, un compilador multiplataforma, una biblioteca estándar multiplataforma completa y formas de acceder a las capacidades 
+nativas de cada plataforma.
+El conjunto de herramientas multiplataforma de Haxe consta de los siguientes componentes:
+
+* El lenguaje de programación Haxe
+	El lenguaje de programación Haxe es un lenguaje de programación de alto nivel estrictamente tipado 	que es utilizado por el 
+  compilador Haxe para producir código nativo multiplataforma. El lenguaje de 	programación Haxe es fácil de aprender si ya está 
+  familiarizado con Java, C ++, PHP, AS3 u otros 	lenguajes orientados a objetos similares. El lenguaje de programación Haxe ha 
+  sido especialmente 	diseñado para adaptar los comportamientos nativos de las distintas plataformas y permitir el 	desarrollo
+  eficiente de plataformas cruzadas.
+* El compilador cruzado de Haxe
+	El Compilador Haxe es responsable de traducir el lenguaje de programación Haxe al código fuente 	nativo de la plataforma de 
+  destino o binario. Cada plataforma es compatible de forma nativa, sin que 	se genere ningún gasto adicional al ejecutarse 
+  dentro de una máquina virtual. El compilador de Haxe 	es muy eficiente y puede compilar miles de clases en segundos.
+* La biblioteca estándar Haxe
+	La biblioteca estándar de Haxe proporciona un conjunto común de API altamente probadas que le 	proporciona un comportamiento 
+  completo multiplataforma. Esto incluye estructuras de datos, 	matemática y fecha, serialización, reflexión, bytes, cifrado, 
+  sistema de archivos, acceso a la base de 	datos, etc. La biblioteca estándar de Haxe también incluye una API específica de la 
+  plataforma que le 	da acceso a partes importantes de las capacidades de la plataforma, y puede ser fácilmente extendida.
+
